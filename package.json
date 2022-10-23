@@ -1,0 +1,19 @@
+{
+  "name": "koa-uni-app",
+  "version": "1.0.0",
+  "description": "koa 技术验证",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "zhp",
+  "license": "ISC",
+  "dependencies": {
+    "@koa/router": "^12.0.0",
+    "axios": "^1.1.3",
+    "koa": "^2.13.4",
+    "koa-bodyparser": "^4.3.0",
+    "koa-static": "^5.0.0",
+    "require-directory": "^2.1.1"
+  }
+}
