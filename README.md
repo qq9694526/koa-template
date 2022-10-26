@@ -1,3 +1,3 @@
 
 
-npm i koa @koa/router axios koa-bodyparser require-directory
+npm i koa @koa/router axios koa-bodyparser require-directory koa-static
